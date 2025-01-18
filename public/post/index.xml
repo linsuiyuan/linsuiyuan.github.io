@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on 我的 Hugo 博客</title>
+    <title>Posts on 三叔木卯 博客</title>
     <link>http://localhost:1313/post/</link>
-    <description>Recent content in Posts on 我的 Hugo 博客</description>
+    <description>Recent content in Posts on 三叔木卯 博客</description>
     <generator>Hugo -- 0.141.0</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 18 Jan 2025 10:37:27 +0800</lastBuildDate>
