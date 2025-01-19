@@ -1,0 +1,56 @@
+# Ignore Hugo's output directory (public folder)
+public/
+
+# Ignore build directories
+resources/
+
+# Ignore local configuration files that might contain sensitive information
+config.toml
+config.yaml
+config.json
+
+# Ignore content for draft posts
+content/**/drafts/**
+
+# Ignore temporary files created by text editors
+*.swp
+*.swo
+*~
+*.bak
+
+# Ignore IDE-specific files and directories (e.g., VSCode, Sublime, etc.)
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore OS-specific files (e.g., macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore Hugo's cache directory
+.cache/
+
+# Ignore dependency directories if using Go modules (useful if your Hugo site includes custom Go modules)
+go.sum
+go.mod
+
+# Ignore Hugo's data files if you're generating them dynamically
+data/
+
+# Ignore vendor directory if you're using Go modules for dependencies
+vendor/
+
+# Ignore the /assets folder if you don't want to version control static assets
+assets/
+
+# Ignore .hugo_build.lock for lock files Hugo generates during the build process
+.hugo_build.lock
+
+# Ignore any generated or compiled binary files (if applicable)
+*.exe
+*.out
+*.log
