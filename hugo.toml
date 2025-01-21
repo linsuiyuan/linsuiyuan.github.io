@@ -2,3 +2,6 @@ baseURL = 'https://linsuiyuan.github.io/'
 languageCode = 'zh-cn'
 title = '木卯 的博客'
 theme = 'PaperMod'
+paginate = 10
+
+
