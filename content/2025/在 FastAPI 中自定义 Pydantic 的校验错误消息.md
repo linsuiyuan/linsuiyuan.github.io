@@ -1,6 +1,6 @@
 ---
 title: "在 FastAPI 中自定义 Pydantic 的校验错误消息"
-date: 2025-03-19
+date: 2025-03-19T22:56:54+08:00
 
 categories:
   - Web开发
